@@ -6,4 +6,4 @@ Outside work I have personal projects which I will showcase on this page. They i
 ## control_toolbox
 In this project I have developed optimization and control algorithms like QP-optimizer, PID and MPC in C++ without using external libraries like Eigen or libraries with ready optimization algorithms. In the project I have implemented everything from basic linear algebra to working MPC algorithm which supports linear and quadratic costfunctions. Currently I'm working on optimizing the MPC-algorithm. 
 
-![Comparison of my MPC algorithm with QP and LP costs to MATLABs MPC with QP cost](mpc_comparison.png)
+![Comparison of my MPC algorithm with QP and LP costs to MATLABs MPC with QP cost](images/mpc_comparison.png)
